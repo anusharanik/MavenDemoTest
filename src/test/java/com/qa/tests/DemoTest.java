@@ -8,7 +8,7 @@ public class DemoTest {
 	
 	@Test
 	public void sum() {
-		System.out.println("SUM");
+		System.out.println("SUM-UPDATED");
 		int a=10;
 		int b=20;
 		Assert.assertEquals(30, a+b);
